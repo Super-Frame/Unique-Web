@@ -1,0 +1,20 @@
+{
+	"paginas":[
+		{
+			"name":"Home",
+			"path":"home"
+		},
+		{
+			"name":"Games",
+			"path":"games"
+		},
+		{
+			"name":"Shop",
+			"path":"shop"
+		},
+		{
+			"name":"Blog",
+			"blog":"blog"
+		}
+	]
+}

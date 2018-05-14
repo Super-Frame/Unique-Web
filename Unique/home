@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Alpha by HTML5 UP</title>
+		<title>Unique</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -18,14 +18,14 @@
 
 			<!-- Header -->
 				<header id="header" class="alt">
-					<h1><a href="index.html">Alpha</a> by HTML5 UP</h1>
+					<h1><a href="index.html">Unique</a> by Super Frame</h1>
 					<nav id="nav">
-						<ul>
-							<li><a href="index.html">Home</a></li>
+						<ul id="menu--c">
+							
 							<li>
-								<a href="#" class="icon fa-angle-down">Layouts</a>
+								<a href="#" class="icon fa-angle-down">Account</a>
 								<ul>
-									<li><a href="generic.html">Generic</a></li>
+									<li><a href="generic.html">Your games</a></li>
 									<li><a href="contact.html">Contact</a></li>
 									<li><a href="elements.html">Elements</a></li>
 									<li>
@@ -39,7 +39,7 @@
 									</li>
 								</ul>
 							</li>
-							<li><a href="#" class="button">Sign Up</a></li>
+							<li><a href="#" class="button">Download App</a></li>
 						</ul>
 					</nav>
 				</header>
@@ -168,6 +168,6 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
-
+			<script src="assets/js/page.req.js"></script>
 	</body>
 </html>
